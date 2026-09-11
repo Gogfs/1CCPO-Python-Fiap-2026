@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alexandre",
+    "email": "a@b.com",
+    "company": "Fiap",
+    "stage": "novo",
+    "created": "2026-09-10"
+  },
+  {
+    "name": "Gabriel",
+    "email": "g",
+    "company": "Scania",
+    "stage": "Talvez",
+    "created": "2026-09-10"
+  }
+]

@@ -12,5 +12,12 @@
     "company": "Scania",
     "stage": "Talvez",
     "created": "2026-09-10"
+  },
+  {
+    "name": "Maria",
+    "email": "maria@maria.maria",
+    "company": "Maria S.A.",
+    "stage": "Sim",
+    "created": "2026-09-17"
   }
 ]
